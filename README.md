@@ -15,8 +15,12 @@ The following analysis randomly selects 500+ cities of varying distance from the
 There are 4 plots that are created with matplotlib and saved as .png files. 
 
 - Temperature (F) vs. Latitude
+![Image1](Temp.png)
 - Humidity (%) vs. Latitude
+![Image2](Humid.png)
 - Cloudiness (%) vs. Latitude
+![Image3](Cloud.png)
 - Wind Speed (mph) vs. Latitude
+![Image4](Wind.png)
 
 The data used is also saved as a .csv file so you can verify which cities were selected each time. 
